@@ -1,0 +1,6 @@
+File_Name,DQM_CD,DQM_Type,Column_Name,Threshhold,Status,Count
+Assignment Task _ Dataset.xlsx,0,Duplicate Data Check,,0,Duplicates Found,2
+Assignment Task _ Dataset.xlsx,1,Duplicate Check,ID,0,Fail,3
+Assignment Task _ Dataset.xlsx,2,Null Check,ID,0,Fail,2
+Assignment Task _ Dataset.xlsx,2,Null Check,Name,0,Fail,3
+Assignment Task _ Dataset.xlsx,2,Null Check,Email,10,Pass,4
